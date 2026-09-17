@@ -1,4 +1,9 @@
 # shelp
+```
+    .@@@@@.
+   @( •ᴥ• )@  shelp
+    `@@@@@`
+```
 
 **sh**ell + h**elp**: a tiny terminal assistant that answers **zsh and bash questions** using a
 local [Ollama](https://ollama.com) model. Off-topic questions are refused, and nothing leaves your machine.
